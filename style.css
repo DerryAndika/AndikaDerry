@@ -21,6 +21,11 @@ header{
 .logo{
     width: auto;
     cursor: pointer;
+    margin: 12px 24px;
+    padding: 8px 16px;
+    background-color: 50%;
+    font-siza: 2em;
+    border-radius: 50%;
 }
 
 .content {
